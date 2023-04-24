@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "AcheronHardware")(type "KiCad")(uri "${ACHERONLIB}/AcheronLibrary/footprints/acheron_Hardware.pretty")(options "")(descr ""))
+  (lib (name "AcheronConnectors")(type "KiCad")(uri "${ACHERONLIB}/AcheronLibrary/footprints/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "AcheronComponents")(type "KiCad")(uri "${ACHERONLIB}/AcheronLibrary/footprints/acheron_Components.pretty")(options "")(descr ""))
+)
